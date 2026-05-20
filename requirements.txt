@@ -1,0 +1,9 @@
+click>=8.0
+pyyaml>=6.0
+lancedb>=0.6
+sentence-transformers>=2.0
+pdfplumber>=0.10
+pandas>=2.0
+anthropic>=0.40
+pytest
+ruff

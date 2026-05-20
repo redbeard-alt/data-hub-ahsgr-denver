@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+*.egg-info/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# macOS
+.DS_Store
+
+# Secrets
+.env
+*.pem
+*.key
+
+# LanceDB indexes — always local, never committed
+data/lancedb/
+data/lancedb-public/
+data/lancedb-private/
+
+# Raw source PDFs — live on LaCie, never committed
+raw/
+
+# Member directory — always private, never committed
+members/
