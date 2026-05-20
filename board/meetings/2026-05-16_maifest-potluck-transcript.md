@@ -57,457 +57,210 @@ Unfortunately, the transcript does not provide clear identification of the speak
 
 ## Transcript
 
-> ⚠ low confidence: Hey, he just talked to Jerry, and she recommended you to replace me, because he was doing drugs
 
-at that time.
+**Unknown Attendee**
 
-**SPEAKER_02**: And he talked about the drugs, and the person at the end said, you know, maybe a little
+And he talked about the drugs, and the person at the end said, you know, maybe a little bit of traffic involved. I said, why the hell are they doing their travels? They said, they were checking on the drugs. Oh, this is very acceptable. Oh, well. I don't know much about the HMJR at all. They don't have a board. Do you think she can do a good job? Well, okay. But why did you have to do it? Well, I do because she's got the newsletter for the headquarters. And so they would have me be nominated. And I said, "Okay, they'll have an election and nobody knows me. They will vote for me." So I won't get any. Well, nobody had to say he's nominated. But one person already told me. So I got him. yeah so the board members should see what's going on.
 
-> ⚠ low confidence: bit of traffic involved.
 
-**SPEAKER_02**: I said, why the hell are they doing their travels?
+**Nick Bretz**
 
-> ⚠ low confidence: **SPEAKER_03**: They said, they were checking on the drugs.
+And so we finally decided it's important to do that in the land.
 
-**SPEAKER_03**: Oh, this is very acceptable.
 
-> ⚠ low confidence: **SPEAKER_04**: Oh, well.
+**Unknown Attendee**
 
-> ⚠ low confidence: **SPEAKER_04**: I don't know much about the HMJR at all.
+And so, we moved to Calgary, we went to Speedy, we went to Sacramento. You've been going to the Calgary part of New York this time?
 
-> ⚠ low confidence: They don't have a board.
 
-**SPEAKER_02**: Do you think she can do a good job?
+**Nick Bretz**
 
-> ⚠ low confidence: Well, okay.
+I did the one in Calgary, for example, in Spring.
 
-> ⚠ low confidence: **SPEAKER_02**: But why did you have to do it?
 
-Well, I do because she's got the newsletter for the headquarters.
+**Unknown Attendee**
 
-And so they would have me be nominated.
+And I heard they were having a social, so I left the day early. I got as far as Cal State. and it starts snowing and we get gas. By the time I pulled into this, I don't know if it was just the exit off the highway or the town. It was that high already. And I pulled in and I got gas across the road. Hard work has been in my care and I'm not going to drive because it was getting late. I'm not going to drive around the gallery in the next morning to go to a prayer even though it's snowing that deep you know how to get rid of snow yeah and go in and go to all kinds of small around the streets and boundaries and it was all clear and it turned out they gave me the white hat so our dignitaries that come to Calgary the chamber of commerce offers
 
-And I said, "Okay, they'll have an election and nobody knows me.
 
-They will vote for me."
+**Nick Bretz**
 
-So I won't get any.
+It felt calm like that. It needs shaping because it's been laying in the closet for a long time. You know, they do that shaping at Worcester and South Shore.
 
-> ⚠ low confidence: **SPEAKER_04**: Well, nobody had to say he's nominated.
 
-> ⚠ low confidence: **SPEAKER_02**: But one person already told me.
+**Unknown Attendee**
 
-> ⚠ low confidence: So I got him.
+I could take it there and have a shave, but I just haven't. But anyway, that's it.
 
-> ⚠ low confidence: **SPEAKER_04**: yeah
 
-so the board members should see what's going on.
+**Bryan Hein**
 
-> ⚠ low confidence: **SPEAKER_01**: And so we finally decided it's important to do that in the land.
+That's a really nice way to honor someone, like someone's company.
 
-> ⚠ low confidence: **SPEAKER_04**: And so, we moved to Calgary, we went to Speedy, we went to Sacramento.
 
-You've been going to the Calgary part of New York this time?
+**Nick Bretz**
 
-> ⚠ low confidence: **SPEAKER_01**: I did the one in Calgary, for example, in Spring.
+Yeah, they made HSDR people who are fairly important because the city of Calgary is, you know. But I spent 17 years on the board.
 
-**SPEAKER_02**: And I heard they were having a social, so I left the day early.
 
-I got as far as Cal State.
+**Bryan Hein**
 
-> ⚠ low confidence: **SPEAKER_03**: and it starts snowing and we get gas.
+Okay. What are some highlights, I guess, from...
 
-By the time I pulled into this, I don't know if it was just the
 
-> ⚠ low confidence: exit off the highway or the town.
+**Nick Bretz**
 
-It was that high already.
+Well I think my biggest highlight is I saved a show from going bankrupt. I got on the board in '97. I didn't attend the meeting. That was the summer. I attended the board meeting that fall. I was not at convention that summer. And the guy who was the head of the finance committee, they put me on the finance committee. We're sitting there. His name was Schaefer. Bob Schaefer, I think. He was a lawyer from Green Bay, Wisconsin. Oh, I remember. And he said, "If we were a private company, we'd have to file bankruptcy early." And I said, "Jay, well, at the '98 convention, somebody, and I don't know if they had talked to an attorney, and the attorney said, "Well, the foundation, you should not have property." See, they had all the property, the titles for all the property headquarters, because of the foundation. They said, "You should only be trying to get money to be able to support the organization." So they transferred all that property to us. And that was the year I became president. And so I had to sign for all that. I said, we're selling some of this stuff. Because at the fall meeting, I found out the life membership fund, based on the bylaws, we can't spend the principal. We can only spend earned interest.
 
-**SPEAKER_03**: And I pulled in and I got gas across the road.
 
-> ⚠ low confidence: **SPEAKER_02**: Hard work has been in my care and I'm not going to drive
+**Bryan Hein**
 
-**SPEAKER_03**: because it was getting late.
+Okay. Yeah, because that's what guarantees a continuation of it. We were $129,000 short.
 
-> ⚠ low confidence: I'm not going to drive around the gallery in the next morning to go to a prayer even though it's
 
-snowing that deep you know how to get rid of snow yeah and go in and go to all kinds of small around
+**Nick Bretz**
 
-> ⚠ low confidence: the streets and boundaries and it was all clear and it turned out they gave me the white hat
+I found that out at that fall board meeting. Then I also found we were over $10,000 short in the restricted accounts. If you donate money to some nonprofit and you spell out what you want the money for, they've got to spend it for that. They can't spend it. Well, we had over $200,000 of stuff that we were supposed to do, but there was no money there. So I had over $400,000 I had to figure out how to get back into Austin. And so with the help of Ed Hoa, we were able to get our finances going. Plus, well, we sold most of the buildings. Then we eventually sold the Aiman house. But that one was kind of strange. We also got a big request from somebody for $100,000 or something. I took that whole amount. The foundation wanted half and I said, "You know, I'm getting half." I said, "I'm putting $300,000." What I want to do is build up a reserve account that would be equal to our annual budget. So if you don't have any income this year, we have enough to cover it.
 
-so our dignitaries that come to Calgary the chamber of commerce offers
 
-> ⚠ low confidence: **SPEAKER_01**: It felt calm like that.
+**Bryan Hein**
 
-**SPEAKER_01**: It needs shaping because it's been laying in the closet for a long time.
+You have to start pulling. Once you start pulling, like I said-
 
-**SPEAKER_01**: You know, they do that shaping at Worcester and South Shore.
 
-> ⚠ low confidence: **SPEAKER_02**: I could take it there and have a shave, but I just haven't.
+**Nick Bretz**
 
-> ⚠ low confidence: But anyway, that's it.
+They're pulling money out of that reserve account. They've been doing that for the last five years. We're spending more than... they're doing some neat things and I finally said look I was critical of
 
-**SPEAKER_05**: That's a really nice way to honor someone, like someone's company.
 
-> ⚠ low confidence: **SPEAKER_01**: Yeah, they made HSDR people who are fairly important because the city of Calgary is, you know.
+**Unknown Attendee**
 
-**SPEAKER_01**: But I spent 17 years on the board.
+people who were there before me because they let this company go.
 
-**SPEAKER_05**: Okay. What are some highlights, I guess, from...
 
-**SPEAKER_01**: Well I think my biggest highlight is I saved a show from going bankrupt. I got on the board in '97. I didn't attend the meeting. That was the summer. I attended the board meeting that fall. I was not at convention that summer.
+**Nick Bretz**
 
-**SPEAKER_01**: And the guy who was the head of the finance committee, they put me on the finance committee. We're sitting there. His name was Schaefer. Bob Schaefer, I think. He was a lawyer from Green Bay, Wisconsin.
+We had to fire her and take it directly because money was disappearing and we had no way of doing what she took. But after we put her on leave for a week before we made the decision to fire her, the accountant said you know this is the first time I've had to deposit cash. A lot of people used to send cash with their payments rather than checks. The cash never made it to the bank. I mean she would sign off that yeah they paid so the person would update the file so now they're paid but they never deposited the money. That's why we were short. She created a paper trail but there was no paper in the bank. No money in the bank. Well and we also had, you know we used to have a number of contests. One of them was all the chapters were trying to get early renewal and early new members for each chapter and they got awards at the convention. I finally decided, I mean I figured out why they were doing it. She needed that money to move to the Riddles because she took the money from all of these
 
-Oh, I remember.
 
-**SPEAKER_01**: And he said, "If we were a private company, we'd have to file bankruptcy early."
+**Unknown Attendee**
 
-And I said, "Jay, well, at the '98 convention, somebody, and I don't know if they had talked to an attorney,
+things. Membership fees, last year's expenses, for the 500 convention, she needed money to move to the convention so she needed all this early renewal so she had money to make her for the mansion, but she was already behind. And I thought to myself, we've got to make a relationship financially, which is... I took a year's account, and then I got off the board. There was a friend of a gal that I had hired as an accountant. It was a contract. Yeah. Yeah. I didn't know. I said, where would I hire you? I said, first of all, I want the books closed by the fifth birthday of the month. I want to have your books sent to me so I can see where we are. Well, I got off the board, and they said, we're going to work six months. They said, gee, they're going to close the books before the end of the month. Yeah. So we went to the next time. I think we were. We should just-- so they fired her, and they did some other thing. We had to change a CPA from California to California.
 
-**SPEAKER_01**: and the attorney said, "Well, the foundation, you should not have property."
 
-**SPEAKER_01**: See, they had all the property, the titles for all the property headquarters, because of the foundation.
+**Nick Bretz**
 
-**SPEAKER_01**: They said, "You should only be trying to get money to be able to support the organization."
+He was going to switch it over from. Well, he got it all half done, and he put the board. It was a mess, because he had to screw it all up.
 
-**SPEAKER_01**: So they transferred all that property to us.
 
-**SPEAKER_01**: And that was the year I became president.
+**Unknown Attendee**
 
-And so I had to sign for all that.
+It took 50 more minutes. I was the only one. They had asked me to take care of the business. I had to take over financing. I hired and got an accountant after two months. Hope and I met in Lincoln at that time. Yep. Would you like to lead us in our lesson? Oh, me? Yeah. --get together one and do it and celebrate our heritage and our culture. I'm disappointed we don't have our people here. That's their awesome scholarship. And bless us, O Lord, and we say yes, and we pray for you. Amen. - - few months ago, she's been going through all the things you can imagine to deal with that. And the moving back in babe is today.
 
-**SPEAKER_01**: I said, we're selling some of this stuff.
 
-Because at the fall meeting, I found out the life membership fund, based on the bylaws,
+**Nick Bretz**
 
-**SPEAKER_01**: we can't spend the principal.
+She gave up so she could be here for five years.
 
-**SPEAKER_01**: We can only spend earned interest.
 
-**SPEAKER_05**: Okay.
+**Unknown Attendee**
 
-**SPEAKER_05**: Yeah, because that's what guarantees a continuation of it.
+Wow. It was all worth it in the long run. There's lessons in coming out of everything. Thank you. they were more excited than I am. So basically, that's the whole process. How did you get the idea?
 
-We were $129,000 short.
 
-**SPEAKER_01**: I found that out at that fall board meeting.
+**Nick Bretz**
 
-**SPEAKER_01**: Then I also found we were over $10,000 short in the restricted accounts.
+You talk about the kids leaving,
 
-**SPEAKER_01**: If you donate money to some nonprofit and you spell out what you want the money for,
 
-**SPEAKER_01**: they've got to spend it for that.
+**Unknown Attendee**
 
-**SPEAKER_01**: They can't spend it.
+embarrassing, and exciting decisions at the outset. I did not get-- I heard things about whether my furniture and belongings did not, but the restoration company and having to leave at home because in some cases you have to have some desks and everything else. So there was a lot of things damaged during that renovation period. But unfortunately, I've been working and I've realized that I can look at them and purchase them. So thank you. Welcome all of you. Thank you. How's your closer?
 
-Well, we had over $200,000 of stuff that we were supposed to do, but there was no money there.
 
-**SPEAKER_01**: So I had over $400,000 I had to figure out how to get back into Austin.
+**Bryan Hein**
 
-**SPEAKER_01**: And so with the help of Ed Hoa, we were able to get our finances going.
+They're going to be at labor at the end of the week.
 
-**SPEAKER_01**: Plus, well, we sold most of the buildings.
 
-**SPEAKER_01**: Then we eventually sold the Aiman house.
+**Unknown Attendee**
 
-**SPEAKER_01**: But that one was kind of strange.
+Are they? The guy who just moved in.
 
-**SPEAKER_01**: We also got a big request from somebody for $100,000 or something.
 
-**SPEAKER_01**: I took that whole amount.
+**Bryan Hein**
 
-**SPEAKER_01**: The foundation wanted half and I said, "You know, I'm getting half."
+Her family's out there serving.
 
-**SPEAKER_01**: I said, "I'm putting $300,000."
 
-What I want to do is build up a reserve account that would be equal to our annual budget.
+**Unknown Attendee**
 
-**SPEAKER_01**: So if you don't have any income this year, we have enough to cover it.
+Oh, yeah. Yeah. I'm going to be on the screen.
 
-**SPEAKER_05**: You have to start pulling.
 
-**SPEAKER_05**: Once you start pulling, like I said-
+**Nick Bretz**
 
-**SPEAKER_01**: They're pulling money out of that reserve account.
+Oh, okay. Yeah. Yeah.
 
-**SPEAKER_01**: They've been doing that for the last five years.
 
-**SPEAKER_01**: We're spending more than...
+**Unknown Attendee**
 
-**SPEAKER_01**: they're doing some neat things and I finally said look I was critical of
+And so it's all over. From what I hear, all over the country they're having problems with traffic. I don't know if they are there or not. Somebody's talking about Florida and some other places. Yeah. It's, to an odd dish, dry as the leaves. Midwest, especially. Huh?
 
-**SPEAKER_02**: people who were there before me because they let this company go.
 
-> ⚠ low confidence: **SPEAKER_01**: We had to fire her and take it directly because money was disappearing and we had no way of doing what she took.
+**Bryan Hein**
 
-**SPEAKER_01**: But after we put her on leave for a week before we made the decision to fire her,
+Midwest, especially. Well, the Midwest forgot to tell me they need Georgia and Georgia. Yeah.
 
-**SPEAKER_01**: the accountant said you know this is the first time I've had to
 
-**SPEAKER_01**: deposit cash. A lot of people used to send cash with their
+**Unknown Attendee**
 
-**SPEAKER_01**: payments rather than checks. The cash never made it to the bank. I mean she would sign
+And you don't normally hear that. And you don't normally hear that. They didn't get that far. Carolina will be getting this. Because they got all kinds of snow. I love it. And you know, Washington, Oregon is pretty fine. We pulled a bunch of those apart because they're in the kit apart. Yes. I did. I didn't bring it. Or if we can't, if we want to. There's a conference in there.
 
-**SPEAKER_01**: off that yeah they paid so the person would update the file so now they're paid but they
 
-**SPEAKER_01**: never deposited the money. That's why we were short. She created a paper trail but there was no paper in the bank. No money in the bank.
+**Nick Bretz**
 
-**SPEAKER_01**: Well and we also had, you know we used to have a number of contests. One of them was all the
+We've got the screen in there.
 
-**SPEAKER_01**: chapters were trying to get early renewal and early new members for each chapter and they got
 
-**SPEAKER_01**: awards at the convention. I finally decided, I mean I figured out why they were doing it.
+**Unknown Attendee**
 
-She needed that money to move to the Riddles because she took the money from all of these
+If there's no chair, we can move in there. I don't know.
 
-> ⚠ low confidence: **SPEAKER_03**: things. Membership fees, last year's expenses, for the 500 convention, she needed money to
 
-**SPEAKER_03**: move to the convention so she needed all this early renewal so she had money to make her
+**Bryan Hein**
 
-> ⚠ low confidence: **SPEAKER_04**: for the mansion, but she was already behind.
+I guess. Yeah.
 
-> ⚠ low confidence: **SPEAKER_03**: And I thought to myself, we've got to make a relationship financially, which is...
 
-> ⚠ low confidence: **SPEAKER_03**: I took a year's account, and then I got off the board.
+**Nick Bretz**
 
-**SPEAKER_03**: There was a friend of a gal that I had hired as an accountant.
+See what happens. Thank you.
 
-**SPEAKER_02**: It was a contract.
 
-> ⚠ low confidence: **SPEAKER_03**: Yeah.
+**Unknown Attendee**
 
-> ⚠ low confidence: **SPEAKER_03**: Yeah.
+We've been as village coordinators getting information for everybody from that village and not just concentrating on guidelines. I've gone back to Germany two generations back on the
 
-> ⚠ low confidence: **SPEAKER_03**: I didn't know.
 
-> ⚠ low confidence: I said, where would I hire you?
+**Nick Bretz**
 
-**SPEAKER_03**: I said, first of all, I want the books closed by the fifth
+French line and I haven't on the Lechmann line although some years ago somebody saw somehow
 
-**SPEAKER_02**: birthday of the month.
 
-I want to have your books sent to me so I can see where we are.
+**Unknown Attendee**
 
-**SPEAKER_03**: Well, I got off the board, and they said,
+saw our name with the HHF from Ingstetten which is your own Germany who sent us a message saying the last Lechman just died in a Lechman house.
 
-> ⚠ low confidence: **SPEAKER_03**: we're going to work six months.
 
-> ⚠ low confidence: They said, gee, they're going to close the books
+**Nick Bretz**
 
-**SPEAKER_03**: before the end of the month.
+And so in some of the villages over Germany, the house stayed with the manly. Well, that was the last one that died. But we never followed up. I tried to get my cousin to follow up because I said, you're the Lechman, I'm Gretz. You follow up on our mother's line. Go ahead.
 
-> ⚠ low confidence: **SPEAKER_03**: Yeah.
 
-> ⚠ low confidence: **SPEAKER_03**: So we went to the next time.
+**Unknown Attendee**
 
-**SPEAKER_03**: I think we were.
-
-> ⚠ low confidence: **SPEAKER_02**: We should just-- so they fired her,
-
-**SPEAKER_02**: and they did some other thing.
-
-> ⚠ low confidence: **SPEAKER_02**: We had to change a CPA from California to California.
-
-**SPEAKER_01**: He was going to switch it over from.
-
-> ⚠ low confidence: Well, he got it all half done, and he put the board.
-
-It was a mess, because he had to screw it all up.
-
-> ⚠ low confidence: **SPEAKER_03**: It took 50 more minutes.
-
-> ⚠ low confidence: I was the only one.
-
-They had asked me to take care of the business.
-
-> ⚠ low confidence: I had to take over financing.
-
-**SPEAKER_02**: I hired and got an accountant after two months.
-
-> ⚠ low confidence: Hope and I met in Lincoln at that time.
-
-> ⚠ low confidence: **SPEAKER_04**: Yep.
-
-**SPEAKER_04**: Would you like to lead us in our lesson?
-
-**SPEAKER_04**: Oh, me?
-
-Yeah.
-
-> ⚠ low confidence: --get together one and do it and celebrate
-
-**SPEAKER_02**: our heritage and our culture.
-
-**SPEAKER_02**: I'm disappointed we don't have our people here.
-
-> ⚠ low confidence: **SPEAKER_03**: That's their awesome scholarship.
-
-**SPEAKER_02**: And bless us, O Lord,
-
-> ⚠ low confidence: **SPEAKER_04**: and we say yes,
-
-> ⚠ low confidence: **SPEAKER_03**: and we pray for you.
-
-> ⚠ low confidence: **SPEAKER_03**: Amen.
-
-> ⚠ low confidence: **SPEAKER_03**: -
-
-> ⚠ low confidence: -
-
-**SPEAKER_03**: few months ago, she's been going through all the things you can imagine to deal with that.
-
-**SPEAKER_02**: And the moving back in babe is today.
-
-**SPEAKER_01**: She gave up so she could be here for five years.
-
-**SPEAKER_04**: Wow.
-
-**SPEAKER_03**: It was all worth it in the long run.
-
-**SPEAKER_03**: There's lessons in coming out of everything.
-
-> ⚠ low confidence: **SPEAKER_04**: Thank you.
-
-> ⚠ low confidence: **SPEAKER_04**: they were more excited than I am.
-
-> ⚠ low confidence: **SPEAKER_03**: So basically, that's the whole process.
-
-> ⚠ low confidence: **SPEAKER_03**: How did you get the idea?
-
-**SPEAKER_01**: You talk about the kids leaving,
-
-> ⚠ low confidence: **SPEAKER_03**: embarrassing, and exciting decisions at the outset.
-
-> ⚠ low confidence: **SPEAKER_04**: I did not get-- I heard things about
-
-**SPEAKER_03**: whether my furniture and belongings did not,
-
-> ⚠ low confidence: **SPEAKER_03**: but the restoration company and having to leave
-
-> ⚠ low confidence: at home because in some cases you have to have some desks and everything else.
-
-**SPEAKER_03**: So there was a lot of things damaged during that renovation period.
-
-> ⚠ low confidence: **SPEAKER_03**: But unfortunately, I've been working and I've realized that I can look at them and purchase them.
-
-**SPEAKER_04**: So thank you. Welcome all of you.
-
-> ⚠ low confidence: **SPEAKER_04**: Thank you.
-
-> ⚠ low confidence: **SPEAKER_02**: How's your closer?
-
-> ⚠ low confidence: **SPEAKER_05**: They're going to be at labor at the end of the week.
-
-**SPEAKER_02**: Are they?
-
-> ⚠ low confidence: **SPEAKER_04**: The guy who just moved in.
-
-> ⚠ low confidence: **SPEAKER_05**: Her family's out there serving.
-
-**SPEAKER_04**: Oh, yeah.
-
-> ⚠ low confidence: **SPEAKER_04**: Yeah.
-
-> ⚠ low confidence: **SPEAKER_04**: I'm going to be on the screen.
-
-> ⚠ low confidence: **SPEAKER_01**: Oh, okay.
-
-> ⚠ low confidence: **SPEAKER_01**: Yeah.
-
-> ⚠ low confidence: Yeah.
-
-> ⚠ low confidence: **SPEAKER_02**: And so it's all over. From what I hear, all over the country they're having problems with traffic.
-
-**SPEAKER_02**: I don't know if they are there or not. Somebody's talking about Florida and some other places.
-
-> ⚠ low confidence: Yeah.
-
-> ⚠ low confidence: **SPEAKER_03**: It's, to an odd dish, dry as the leaves.
-
-**SPEAKER_04**: Midwest, especially.
-
-> ⚠ low confidence: **SPEAKER_04**: Huh?
-
-**SPEAKER_05**: Midwest, especially.
-
-> ⚠ low confidence: Well, the Midwest forgot to tell me they need Georgia and Georgia.
-
-> ⚠ low confidence: Yeah.
-
-**SPEAKER_02**: And you don't normally hear that.
-
-**SPEAKER_02**: And you don't normally hear that.
-
-They didn't get that far.
-
-> ⚠ low confidence: Carolina will be getting this.
-
-Because they got all kinds of snow.
-
-> ⚠ low confidence: I love it.
-
-And you know, Washington, Oregon is pretty fine.
-
-> ⚠ low confidence: **SPEAKER_03**: We pulled a bunch of those apart because they're in the kit apart.
-
-> ⚠ low confidence: **SPEAKER_04**: Yes.
-
-> ⚠ low confidence: **SPEAKER_03**: I did.
-
-> ⚠ low confidence: **SPEAKER_03**: I didn't bring it.
-
-**SPEAKER_02**: Or if we can't, if we want to.
-
-**SPEAKER_04**: There's a conference in there.
-
-**SPEAKER_01**: We've got the screen in there.
-
-**SPEAKER_03**: If there's no chair, we can move in there.
-
-**SPEAKER_04**: I don't know.
-
-**SPEAKER_05**: I guess.
-
-> ⚠ low confidence: **SPEAKER_05**: Yeah.
-
-**SPEAKER_01**: See what happens.
-
-> ⚠ low confidence: Thank you.
-
-**SPEAKER_02**: We've been as village coordinators getting information for everybody from that village
-
-and not just concentrating on guidelines. I've gone back to Germany two generations back on the
-
-> ⚠ low confidence: **SPEAKER_01**: French line and I haven't on the Lechmann line although some years ago somebody saw somehow
-
-> ⚠ low confidence: **SPEAKER_02**: saw our name with the HHF from Ingstetten which is your own Germany who sent us a message saying
-
-the last Lechman just died in a Lechman house.
-
-**SPEAKER_01**: And so in some of the villages over Germany,
-
-the house stayed with the manly.
-
-Well, that was the last one that died.
-
-**SPEAKER_01**: But we never followed up.
-
-I tried to get my cousin to follow up
-
-because I said, you're the Lechman, I'm Gretz.
-
-You follow up on our mother's line.
-
-> ⚠ low confidence: Go ahead.
-
-**SPEAKER_04**: I'm going to grab that.
-
-> ⚠ low confidence: The water is clear.
-
-> ⚠ low confidence: um
-
-> ⚠ low confidence: so
+I'm going to grab that. The water is clear. um so
 
 ## Action Items
 
@@ -4598,9 +4351,7 @@ I don't know, we may be related through that.
 
 **Barbara Bretz**
 
-Thank you. ## Action Items ```json { "actionItems": [ { "item": "Digitize the newsletters from 1984 and 1985", "speaker": "Shirley", "context": "Shirley gave the narrator a set of old newsletters to digitize" }, { "item": "Scan work papers using optical character recognition (OCR) for better image quality", "speaker": "Unknown", "context": "The narrator mentioned that scanning work papers with OCR would improve image quality" }, { "item": "Reach out to HSR staff about a potential event at the Longmont Museum", "speaker": "Unknown", "context": "The narrator discussed the possibility of hosting an event at the Longmont Museum and encouraged reaching out to HSR staff" }, { "item": "Create a database or spreadsheet for tracking membership, including contact information and communication preferences", "speaker": "Nick", "context": "Nick suggested creating a database or spreadsheet to track membership and communication preferences" }, { "item": "Consider using social media platforms like Facebook, Instagram, TikTok, or Reddit to increase engagement and reach younger members", "speaker": "Unknown", "context": "The narrator mentioned the importance of using social media platforms to engage with younger members" }, { "item": "Develop a plan for sharing information about upcoming events and meetings through various channels, including email, mail, websites, and social media", "speaker": "Unknown", "context": "The narrator discussed the need for a plan to share information about upcoming events and meetings through various channels" }, { "item": "Update the database or spreadsheet with contact information and communication preferences from members", "speaker": "Nick", "context": "Nick suggested updating the database or spreadsheet with member contact information and communication preferences" }, { "item": "Create a QR code for members to access additional information, including website links and newsletters", "speaker": "Unknown", "context": "The narrator mentioned creating a QR code for members to access additional information" }, { "item": "Develop a plan for handling phone calls and messages from members, including setting up a system for responding to inquiries", "speaker": "Unknown", "context": "The narrator discussed the need for a plan to handle phone calls and messages from members" }, { "item": "Create a committee or task force to focus on outreach and engagement with younger members, potentially using social media platforms", "speaker": "Unknown", "context": "The narrator suggested creating a committee or task force to focus on outreach and engagement with younger members" } ] } ```
-
----
+Thank you. ## Action Items ```json { "actionItems": [ { "item": "Digitize the newsletters from 1984 and 1985", "speaker": "Shirley", "context": "Shirley gave the narrator a set of old newsletters to digitize" }, { "item": "Scan work papers using optical character recognition (OCR) for better image quality", "speaker": "Unknown", "context": "The narrator mentioned that scanning work papers with OCR would improve image quality" }, { "item": "Reach out to HSR staff about a potential event at the Longmont Museum", "speaker": "Unknown", "context": "The narrator discussed the possibility of hosting an event at the Longmont Museum and encouraged reaching out to HSR staff" }, { "item": "Create a database or spreadsheet for tracking membership, including contact information and communication preferences", "speaker": "Nick", "context": "Nick suggested creating a database or spreadsheet to track membership and communication preferences" }, { "item": "Consider using social media platforms like Facebook, Instagram, TikTok, or Reddit to increase engagement and reach younger members", "speaker": "Unknown", "context": "The narrator mentioned the importance of using social media platforms to engage with younger members" }, { "item": "Develop a plan for sharing information about upcoming events and meetings through various channels, including email, mail, websites, and social media", "speaker": "Unknown", "context": "The narrator discussed the need for a plan to share information about upcoming events and meetings through various channels" }, { "item": "Update the database or spreadsheet with contact information and communication preferences from members", "speaker": "Nick", "context": "Nick suggested updating the database or spreadsheet with member contact information and communication preferences" }, { "item": "Create a QR code for members to access additional information, including website links and newsletters", "speaker": "Unknown", "context": "The narrator mentioned creating a QR code for members to access additional information" }, { "item": "Develop a plan for handling phone calls and messages from members, including setting up a system for responding to inquiries", "speaker": "Unknown", "context": "The narrator discussed the need for a plan to handle phone calls and messages from members" }, { "item": "Create a committee or task force to focus on outreach and engagement with younger members, potentially using social media platforms", "speaker": "Unknown", "context": "The narrator suggested creating a committee or task force to focus on outreach and engagement with younger members" } ] } ``` ---
 
 ## Part 3 — NewMark Merrill
 
@@ -4636,8 +4387,6 @@ The conversation is friendly, collaborative, and problem-solving-oriented. The s
 * Another speaker expresses gratitude for the opportunity to take over as president and appreciate the confidence shown in them.
 
 ## Transcript
-
-Then we were doing it the old e-lidges until they shut down. And we stopped going because the new e-lidges there, the elderly people or people that didn't want to go on the rides could just pay an admission fee to get in.
 
 
 **Shirley Wilcoxon**
