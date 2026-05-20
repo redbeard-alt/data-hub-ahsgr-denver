@@ -39,6 +39,10 @@ _VALID_TOPICS = {
     "research",
 }
 
+def _validate_topic(topic: str) -> None:
+    if topic not in _VALID_TOPICS:
+        raise click.BadParameter(f"Unknown topic '{topic}'. Valid: {sorted(_VALID_TOPICS)}")
+
 _SERIES_MAP = {
     "CLUES": "journals/clues",
     "Journal": "journals/journal",
@@ -109,6 +113,7 @@ def promote(
     tags: str,
 ) -> None:
     """Promote a markdown or CSV file into the hub taxonomy."""
+    _validate_topic(topic)
     tier = _enforce_tier(topic, tier)
     dest_dir = _REPO_ROOT / topic
     dest_dir.mkdir(parents=True, exist_ok=True)
@@ -286,6 +291,8 @@ def stats() -> None:
     for md in _REPO_ROOT.rglob("*.md"):
         rel = md.relative_to(_REPO_ROOT)
         parts = rel.parts
+        if not parts:
+            continue
         if parts[0] in ("raw", ".git") or md.name in ("CLAUDE.md", "HEARTBEAT.md", "README.md"):
             continue
         if len(parts) >= 2:
@@ -317,6 +324,7 @@ def index_raw() -> None:
 
     series_counts: dict[str, int] = {}
     year_range: dict[str, list[int]] = {}
+    issue_range: dict[str, list[int]] = {}
 
     for pdf in pdfs:
         name = pdf.stem
@@ -329,6 +337,15 @@ def index_raw() -> None:
                     yr = year_range.setdefault(topic, [y, y])
                     yr[0] = min(yr[0], y)
                     yr[1] = max(yr[1], y)
+                else:
+                    # Vol/No numbered series — track issue numbers
+                    nos = re.findall(r"No(\d+)", name)
+                    vols = re.findall(r"Vol(\d+)", name)
+                    n = int(nos[0]) if nos else (int(vols[0]) if vols else 0)
+                    if n:
+                        ir = issue_range.setdefault(topic, [n, n])
+                        ir[0] = min(ir[0], n)
+                        ir[1] = max(ir[1], n)
                 break
 
     lines = [
@@ -337,12 +354,19 @@ def index_raw() -> None:
         f"**Total PDFs:** {len(pdfs)}\n",
         f"**Generated:** {datetime.now(timezone.utc).date()}\n\n",
         "## By Series\n\n",
-        "| Series (topic) | Count | Year Range |\n",
+        "| Series (topic) | Count | Range |\n",
         "|---|---|---|\n",
     ]
     for topic in sorted(series_counts):
-        yr = year_range.get(topic, [0, 0])
-        lines.append(f"| {topic} | {series_counts[topic]} | {yr[0]}–{yr[1]} |\n")
+        if topic in year_range:
+            yr = year_range[topic]
+            rng = f"{yr[0]}–{yr[1]}"
+        elif topic in issue_range:
+            ir = issue_range[topic]
+            rng = f"No.{ir[0]}–No.{ir[1]}"
+        else:
+            rng = "—"
+        lines.append(f"| {topic} | {series_counts[topic]} | {rng} |\n")
 
     out = _REPO_ROOT / "raw" / "INDEX.md"
     out.parent.mkdir(exist_ok=True)
