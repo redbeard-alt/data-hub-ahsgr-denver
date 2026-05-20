@@ -25,7 +25,6 @@ _LANCEDB_DIR = _REPO_ROOT / "data" / "lancedb"
 _LACIE_RAW = Path("/Volumes/LaCie/data-hub/ahsgr/journals")
 
 _ALWAYS_PRIVATE = {"members"}
-_VALID_TIERS = {"public", "private"}
 _VALID_TOPICS = {
     "journals/clues",
     "journals/journal",
@@ -42,6 +41,10 @@ _VALID_TOPICS = {
 def _validate_topic(topic: str) -> None:
     if topic not in _VALID_TOPICS:
         raise click.BadParameter(f"Unknown topic '{topic}'. Valid: {sorted(_VALID_TOPICS)}")
+
+def _validate_tier(tier: str) -> None:
+    if tier not in {"public", "private"}:
+        raise click.BadParameter(f"tier must be 'public' or 'private', got '{tier}'")
 
 _SERIES_MAP = {
     "CLUES": "journals/clues",
@@ -114,6 +117,7 @@ def promote(
 ) -> None:
     """Promote a markdown or CSV file into the hub taxonomy."""
     _validate_topic(topic)
+    _validate_tier(tier)
     tier = _enforce_tier(topic, tier)
     dest_dir = _REPO_ROOT / topic
     dest_dir.mkdir(parents=True, exist_ok=True)
@@ -293,7 +297,7 @@ def stats() -> None:
         parts = rel.parts
         if not parts:
             continue
-        if parts[0] in ("raw", ".git") or md.name in ("CLAUDE.md", "HEARTBEAT.md", "README.md"):
+        if parts[0] in ("raw", ".git", ".venv", ".claude") or md.name in ("CLAUDE.md", "HEARTBEAT.md", "README.md"):
             continue
         if len(parts) >= 2:
             key = f"{parts[0]}/{parts[1]}" if parts[1] != md.name else parts[0]
