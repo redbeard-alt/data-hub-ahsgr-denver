@@ -111,6 +111,18 @@ tags: [clues, 1985, genealogy]
 4. **LanceDB index is local only** — `data/lancedb/` gitignored; rebuild via `make build`
 5. **Never override tier on members/** — always private
 
+## Claude Skills
+
+Shared skills are served via `additionalDirectories` from `config-ai-agent/skills/` — no local copies needed.
+
+| Skill | Trigger phrases |
+| --- | --- |
+| `rag/data-hub-promote` | "promote to data hub", "ingest this journal", "add to the archive" |
+| `rag/lancedb-search` | "search the journal archive", "find articles on", "RAG search", "what issues cover" |
+| `scraping/bright-data-mcp` | "fetch this URL", "look up online", any live web lookup |
+| `scraping/search` | "search for", "find genealogy sources on", SERP discovery |
+| `memory/prior-context-check` | "what do I know about", "check prior context", "have I seen this" |
+
 ## Gotchas
 
 - **LaCie must be mounted** for `make sync-lacie` and `make index-raw`
