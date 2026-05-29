@@ -4,13 +4,13 @@ ASHGR North Denver Chapter archive and shared research hub. Promotes from resear
 newsletter-agent, and project-ashgr-denver. Feeds a single LanceDB index for RAG search
 across all chapter-relevant content. Multiple agents pull from this hub.
 
-**LaCie raw source:** `/Volumes/LaCie/data-hub/ahsgr/` — 462 PDFs, 1.8GB, 5 series (1971–present).
-**LaCie must be mounted** for `make index-raw` and `make sync-lacie`.
+**BJH raw source:** `/Volumes/BJH/data-hub/ahsgr/` — 462 PDFs, 1.8GB, 5 series (1971–present).
+**BJH must be mounted** for `make index-raw` and `make sync-lacie`.
 
 ## Architecture Position
 
 ```
-LaCie/data-hub/ahsgr/journals/   ← 462 raw PDFs (source of truth, read-only)
+BJH/data-hub/ahsgr/journals/   ← 462 raw PDFs (source of truth, read-only)
 project-ashgr-denver/            ← roster/officer index CSV, MCP server
 research-agent/                  ← web research, Perplexity runs
 newsletter-agent/                ← chapter newsletter drafts
@@ -35,7 +35,7 @@ board/
 members/           ← Member directory, profiles (ALWAYS PRIVATE — gitignored)
 genealogy/         ← Germans from Russia genealogy research
 research/          ← Shared docs pulled from data-hub (genealogy/, american-history/)
-raw/               ← Source PDFs (gitignored — live on LaCie)
+raw/               ← Source PDFs (gitignored — live on BJH)
 ```
 
 ## Sensitivity Tiers
@@ -67,7 +67,7 @@ make promote SRC="..." TOPIC="journals/clues"
 make build
 make search QUERY="..."
 make query Q="..."
-make sync-lacie          # rsync promoted docs → LaCie (LaCie required)
+make sync-lacie          # rsync promoted docs → BJH (BJH required)
 make index-raw           # scan LaCie raw PDFs → INDEX.md
 make sync-data-hub       # pull shared research from ~/Laboratory/data-hub
 ```
@@ -97,7 +97,7 @@ tier: public
 series: clues
 year: 1985
 source_agent: research-agent
-source_path: /Volumes/LaCie/data-hub/ahsgr/journals/AHSGR-CLUES-1985-pt1.pdf
+source_path: /Volumes/BJH/data-hub/ahsgr/journals/AHSGR-CLUES-1985-pt1.pdf
 promoted_at: 2026-05-19T00:00:00Z
 tags: [clues, 1985, genealogy]
 ---
@@ -125,7 +125,7 @@ Shared skills are served via `additionalDirectories` from `config-ai-agent/skill
 
 ## Gotchas
 
-- **LaCie must be mounted** for `make sync-lacie` and `make index-raw`
+- **BJH must be mounted** for `make sync-lacie` and `make index-raw`
 - **Python 3.12 required** — matches all other data-hub repos
 - `make sync-data-hub` pulls from `~/Laboratory/data-hub/genealogy/` and
   `~/Laboratory/data-hub/american-history/` only — never pulls private content
